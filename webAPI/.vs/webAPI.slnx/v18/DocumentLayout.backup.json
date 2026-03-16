@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B\u00FC\u015Fra Y\u0131lmaz\\Desktop\\PERSONEL KAYIT S\u0130STEM\u0130\\webAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|webAPI\\webAPI.csproj|c:\\users\\b\u00FC\u015Fra y\u0131lmaz\\desktop\\personel kayit s\u0130stem\u0130\\webapi\\webapi\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|webAPI\\webAPI.csproj|solutionrelative:webapi\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonelController.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra Y\u0131lmaz\\Desktop\\PERSONEL KAYIT S\u0130STEM\u0130\\webAPI\\webAPI\\Controllers\\PersonelController.cs",
+              "RelativeDocumentMoniker": "webAPI\\Controllers\\PersonelController.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra Y\u0131lmaz\\Desktop\\PERSONEL KAYIT S\u0130STEM\u0130\\webAPI\\webAPI\\Controllers\\PersonelController.cs",
+              "RelativeToolTip": "webAPI\\Controllers\\PersonelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:33:46.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

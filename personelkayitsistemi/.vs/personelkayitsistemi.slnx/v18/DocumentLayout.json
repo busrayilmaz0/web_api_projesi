@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B\u00FC\u015Fra Y\u0131lmaz\\Desktop\\PERSONEL KAYIT S\u0130STEM\u0130\\personelkayitsistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB6FE2A-24D7-4903-8F18-F41AF2D5D162}|personelkayitsistemi\\personelkayitsistemi.csproj|c:\\users\\b\u00FC\u015Fra y\u0131lmaz\\desktop\\personel kayit s\u0130stem\u0130\\personelkayitsistemi\\personelkayitsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADB6FE2A-24D7-4903-8F18-F41AF2D5D162}|personelkayitsistemi\\personelkayitsistemi.csproj|solutionrelative:personelkayitsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB6FE2A-24D7-4903-8F18-F41AF2D5D162}|personelkayitsistemi\\personelkayitsistemi.csproj|C:\\Users\\B\u00FC\u015Fra Y\u0131lmaz\\Desktop\\PERSONEL KAYIT S\u0130STEM\u0130\\personelkayitsistemi\\personelkayitsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB6FE2A-24D7-4903-8F18-F41AF2D5D162}|personelkayitsistemi\\personelkayitsistemi.csproj|solutionrelative:personelkayitsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra Y\u0131lmaz\\Desktop\\PERSONEL KAYIT S\u0130STEM\u0130\\personelkayitsistemi\\personelkayitsistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "personelkayitsistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra Y\u0131lmaz\\Desktop\\PERSONEL KAYIT S\u0130STEM\u0130\\personelkayitsistemi\\personelkayitsistemi\\Form1.cs",
+              "RelativeToolTip": "personelkayitsistemi\\Form1.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAkwGABAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:32:43.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra Y\u0131lmaz\\Desktop\\PERSONEL KAYIT S\u0130STEM\u0130\\personelkayitsistemi\\personelkayitsistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "personelkayitsistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra Y\u0131lmaz\\Desktop\\PERSONEL KAYIT S\u0130STEM\u0130\\personelkayitsistemi\\personelkayitsistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personelkayitsistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T14:08:42.394Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

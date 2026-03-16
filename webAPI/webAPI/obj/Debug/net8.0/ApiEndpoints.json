@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "webAPI.Controllers.PersonelController",
+    "Method": "GirisYap",
+    "RelativePath": "api/Personel/GirisYap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "webAPI.Model.PersonelModel\u002BPersonel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "webAPI.Controllers.PersonelController",
+    "Method": "PersonelKaydet",
+    "RelativePath": "api/Personel/PersonelKaydet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "webAPI.Model.PersonelModel\u002BPersonel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "webAPI.Controllers.PersonelController",
+    "Method": "PersonelSil",
+    "RelativePath": "api/Personel/PersonelSil",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TcKimlikNo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
